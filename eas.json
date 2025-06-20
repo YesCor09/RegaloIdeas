@@ -15,14 +15,8 @@
       },
       "my-profile": {
         "environment": "production"
-    },
-    "preview": {
-      "distribution": "internal",
-      "android": {
-        "buildType": "apk"
       }
-    }
-  },
+    },
   "submit": {
     "production": {}
   }
