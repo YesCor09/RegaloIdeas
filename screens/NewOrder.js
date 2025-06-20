@@ -22,7 +22,7 @@ import { format } from "date-fns"
 import AsyncStorage from "@react-native-async-storage/async-storage"
 import { Picker } from "@react-native-picker/picker"
 import { Ionicons } from "@expo/vector-icons"
-import { PreciosEnvios, findPrecioByUbicacion } from "../data/PreciosEnvios"
+import { PreciosEnvios, findPrecioByUbicacion } from "../config/envios.config.js"
 import { pickImageWithPermanentStorage } from "../components/ImageUtils.js"
 
 const { width } = Dimensions.get("window")

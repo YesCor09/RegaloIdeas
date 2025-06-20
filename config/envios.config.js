@@ -1,3 +1,4 @@
+// Alternativa 1: Versión JavaScript simple (renombra tu archivo a .js)
 export const PreciosEnvios = {
   Recoje_En_Tienda: {
     precio: 0,

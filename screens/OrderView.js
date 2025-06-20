@@ -24,7 +24,7 @@ import { Picker } from "@react-native-picker/picker"
 import { format } from "date-fns"
 import { ordersContext } from "../components/OrdersProvider"
 import { pickImageWithPermanentStorage } from "../components/ImageUtils"
-import { PreciosEnvios, findPrecioByUbicacion } from "../data/PreciosEnvios"
+import { PreciosEnvios, findPrecioByUbicacion } from "../config/envios.config.js"
 
 const { width, height } = Dimensions.get("window")
 
