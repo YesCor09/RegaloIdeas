@@ -19,10 +19,6 @@
     }
   },
   "submit": {
-    "production": {
-      "android": {
-        "serviceAccountKeyPath": "keys/service-account.json"
-      }
-    }
+    "production": {}
   }
 }
