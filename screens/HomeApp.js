@@ -258,7 +258,7 @@ const HomeApp = ({ navigation }) => {
           <View style={styles.imageContainer}>
             <Image source={{ uri: order.image }} style={styles.orderImage} />
             <View style={styles.imageOverlay}>
-              <Ionicons name="rose" size={20} color="rgba(255,255,255,0.8)" />
+              <Ionicons name="rose" size={20} color="rgba(255, 255, 255, 0.93)" />
             </View>
           </View>
 
