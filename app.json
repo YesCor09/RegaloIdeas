@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "RegaloIdeas",
-    "slug": "RegaloIdeas",
+    "slug": "regaloi",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/logo.jpg",
@@ -20,7 +20,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.yescor09.RegaloIdeas"
+      "package": "com.yescor09.regaloi"
     },
     "web": {
       "favicon": "./assets/favicon.png"
