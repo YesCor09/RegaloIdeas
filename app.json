@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "RegaloIdeas",
-    "slug": "regaloi",
+    "slug": "regaloideas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/logo.jpg",
@@ -27,7 +27,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "30c777e7-b3f4-4adc-9be9-74fa92ae7644"
+        "projectId": "12d56d81-55d3-4c26-93e5-fbe83be38bb0"
       }
     },
     "owner": "yesss09"
