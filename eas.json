@@ -1,10 +1,20 @@
 {
+  "cli": {
+    "version": ">= 16.11.0",
+    "appVersionSource": "remote"
+  },
   "build": {
     "production": {
       "android": {
         "credentialsSource": "remote",
         "buildType": "apk"
       }
+    },
+    "preview": {
+      "distribution": "internal"
     }
+  },
+  "submit": {
+    "production": {}
   }
 }
