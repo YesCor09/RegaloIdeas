@@ -454,6 +454,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "#FF1493",
     paddingBottom: 0,
+    paddingTop: 20
   },
   header: {
     paddingTop: 20,
