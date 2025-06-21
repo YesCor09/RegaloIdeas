@@ -362,7 +362,7 @@ const HomeApp = ({ navigation }) => {
       <View style={styles.header}>
         <View style={styles.logoContainer}>
           <View style={styles.logoShadow}>
-            <Image source={require("../assets/logo.jpg")} style={styles.logo} />
+            <Image source={require("../assets/logo.png")} style={styles.logo} />
           </View>
           <View style={styles.sparkleContainer}>
             <Ionicons name="sparkles" size={20} color="#FFD700" style={styles.sparkle1} />
