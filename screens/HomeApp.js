@@ -330,7 +330,7 @@ const HomeApp = ({ navigation }) => {
 
     switch (activeTab) {
       case "active":
-        emptyMessage = "¡Crea tu primer pedido de rosas!"
+        emptyMessage = "¡Crea tu primer pedido!"
         emptyIcon = "rose-outline"
         break
       case "delivered":
